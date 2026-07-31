@@ -75,6 +75,4 @@
 
 <div align="center">
 
-Thanks for visiting — always open to connect and collaborate 🚀
-
 </div>
